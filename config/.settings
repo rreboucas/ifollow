@@ -1,0 +1,16 @@
+{
+    "projectName": "IFollow",
+    "username": "rreboucas-edpn@force.com",
+    "id": "9378aab0-8242-11e6-b213-b7e34bc88c5f",
+    "namespace": "roreblciflw3",
+    "environment": "production",
+    "loginUrl": "https://login.salesforce.com/",
+    "workspace": "/users/rreboucas/documents/MavensMateProjects",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
